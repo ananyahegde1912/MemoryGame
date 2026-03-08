@@ -26,7 +26,7 @@ I created a Memory Game where users try to match pairs of cards. It’s a fun wa
 
 1. Download or clone this repository.
 2. Make sure Python is installed on your system.
-3. Run the `memory_game.py` file using Python.
+3. Run the memory_game.py file using Python.
 
 ## **Future Improvements**
 
