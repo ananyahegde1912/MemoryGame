@@ -22,11 +22,6 @@ I created a Memory Game where users try to match pairs of cards. It’s a fun wa
 - If the two cards do not match, the hide_cards function flips them back by setting their text to an empty string ("") after a short delay using root.after.
 - This provides instant feedback and helps users remember which cards have already been revealed.
 
-## **Installation**
-
-1. Download or clone this repository.
-2. Make sure Python is installed on your system.
-3. Run the memory_game.py file using Python.
 
 ## **Future Improvements**
 
